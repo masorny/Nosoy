@@ -1,0 +1,12 @@
+{
+    "log_deleted_messages": "true or false here, in BOOLEAN",
+    "cache_server": {
+        "guild_id": "UR CACHE GUILD HERE",
+        "messageDelete_channel_id": "CHANNEL ID HERE",
+        "messageBulkDelete_channel_id": "CHANNEL ID HERE",
+        "messageUpdate_channel_id": "CHANNEL ID HERE"
+    },
+    "bot_owner_id": "DISCORD USER ID",
+    "guild_id": "GUILD ID HERE",
+    "commands_dir": "./commands/"
+}
